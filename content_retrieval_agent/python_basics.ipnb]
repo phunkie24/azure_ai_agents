@@ -1,0 +1,581 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "46235194-8fd6-4c08-bb29-ff48d427600d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = 3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "f5c1e42e-7bda-491e-a1ee-56b8c17487ec",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "b = a + 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "93146273-be31-405c-94d4-2ae0385ef7d0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "7"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "a + b #7"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "c223d65d-a4ea-4143-a7c8-a80d4a8be1e5",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "dog_name = 'spot'\n",
+    "dog_name ='rex'\n",
+    "dog_name = 't-' + dog_name #'t-rex'\n",
+    "big ='large'\n",
+    "big = 1000 * 1000\n",
+    "big = { }"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "fbac2ff1-0468-487b-826f-d9262e553f7c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Operaators\n",
+    "1+1 "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "e3003083-2390-4f8f-abdc-a185e3c54d2d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "-1"
+      ]
+     },
+     "execution_count": 7,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "3-4"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "933408d4-4898-49ea-af43-e2b528a692fb",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "10"
+      ]
+     },
+     "execution_count": 8,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "2*5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "db655854-702e-4831-9a72-1dd85f042de0",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "0.6666666666666666"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "2/3"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "f8151ac8-babc-406c-9b1d-11147ff45a67",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "execution_count": 10,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5//2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "c65e3c78-df69-4f5f-8195-ef0ea31e249c",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "9"
+      ]
+     },
+     "execution_count": 11,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "3**2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "3f1b2ff7-649a-403e-a3cb-99cf023d516d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1"
+      ]
+     },
+     "execution_count": 12,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5%2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "c5f78480-c011-4ce4-8bc5-d64aba7c6f32",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'\\nanother block after code\\n'"
+      ]
+     },
+     "execution_count": 13,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#Comment\n",
+    "# This is a comment\n",
+    "1+1 #comment after code\n",
+    "\"\"\"\n",
+    "block after code\n",
+    "\"\"\"\n",
+    "'''\n",
+    "another block after code\n",
+    "'''"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "84779c18-e5db-42ff-a0e9-fea0a63b7ab0",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello, world\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Built in function\n",
+    "print('Hello, world')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "c15540d1-edc6-40b7-8428-227d4103acc8",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "range(0, 10)"
+      ]
+     },
+     "execution_count": 17,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#Range\n",
+    "#Generate sequence\n",
+    "range(10)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "7528fb8e-cc1f-4e68-93a9-589ba4269f3b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]"
+      ]
+     },
+     "execution_count": 18,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "list(range(10))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "50e31ec9-41ca-4b8a-826a-62c2a4306f75",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[5, 6, 7, 8, 9]"
+      ]
+     },
+     "execution_count": 19,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "list(range(5, 10))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "7ec7b1aa-d37a-4b79-8a62-a57ca769c508",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "[5, 8]"
+      ]
+     },
+     "execution_count": 20,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "list(range(5,10,3))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "4396a1be-a8cf-4c47-ba43-a52dea18e74b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#Execution control"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "a20d7c8b-9c18-4e9d-8ec7-4b8811595672",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "i is 35\n"
+     ]
+    }
+   ],
+   "source": [
+    "i = 35 \n",
+    "if  i ==35:\n",
+    "    print('i is 35')\n",
+    "elif i == 35:\n",
+    "    print('other')\n",
+    "else:\n",
+    "    print('other')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "5341ebcd-e86d-45fc-ba6b-adfba3351b9c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Found an 's' in a cat\n",
+      "some other cat\n"
+     ]
+    }
+   ],
+   "source": [
+    "# netsed example\n",
+    "cat = 'spot'\n",
+    "if 's' in cat:\n",
+    "    print(\"Found an 's' in a cat\")\n",
+    "    if cat == \"Sheba\":\n",
+    "        print(\"I fonud sheba\")\n",
+    "    else:\n",
+    "        print(\"some other cat\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "id": "7695d4d7-d1f1-4148-81d3-b39dc05c7dc9",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "2\n",
+      "4\n",
+      "6\n",
+      "8\n",
+      "10\n",
+      "12\n",
+      "14\n",
+      "16\n",
+      "18\n"
+     ]
+    }
+   ],
+   "source": [
+    "# for loops \n",
+    "for i in range(10):\n",
+    "    x = i*2\n",
+    "    print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 38,
+   "id": "159e7163-9ca0-42cc-9a0e-3595d7a7499a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "1\n",
+      "2\n",
+      "4\n",
+      "5\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Continue\n",
+    "for i in range(6):\n",
+    "    if i == 3:\n",
+    "        continue\n",
+    "    print(i)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 41,
+   "id": "949f0a64-c1d4-4020-a2b0-79cf8bc54a89",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "1\n",
+      "2\n"
+     ]
+    }
+   ],
+   "source": [
+    "#while loops\n",
+    "count = 0 \n",
+    "while count < 3:\n",
+    "    print(count)\n",
+    "    count +=1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 42,
+   "id": "6f601316-ac1b-4ec6-8639-2284cb12085d",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# break"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 44,
+   "id": "b886aee4-b1a8-435c-9d3f-13fefecef3d1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "1\n",
+      "2\n",
+      "3\n",
+      "4\n",
+      "5\n",
+      "6\n"
+     ]
+    }
+   ],
+   "source": [
+    "count = 0\n",
+    "while True:\n",
+    "    print(count)\n",
+    "    if count > 5:\n",
+    "        break\n",
+    "    count += 1"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 45,
+   "id": "d8a3d1fa-84b0-4e74-b6f4-ca6b399b13ea",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Gumby\n",
+      "PlayDo\n",
+      "Plato\n",
+      "We tried to print many thinkers\n",
+      "pop from empty list\n"
+     ]
+    }
+   ],
+   "source": [
+    "#Handling exceptions\n",
+    "thinkers = ['Plato', 'PlayDo', 'Gumby']\n",
+    "while True:\n",
+    "    try:\n",
+    "        thinker = thinkers.pop()\n",
+    "        print(thinker)\n",
+    "    except IndexError as e:\n",
+    "        print(\"We tried to print many thinkers\")\n",
+    "        print(e)\n",
+    "        break"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "96ce3aaf-da63-4fa1-bc0f-587e8c44dd8e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.3"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

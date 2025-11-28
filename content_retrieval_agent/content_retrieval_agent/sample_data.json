@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Summer Sale Email Campaign",
+    "content": "🌞 Summer Savings Are Here! Don't miss our biggest sale of the season. Get up to 50% off on all products. Limited time offer - shop now and save big on your favorite items. Free shipping on orders over $50. Use code SUMMER50 at checkout.",
+    "content_type": "email",
+    "campaign_name": "Summer 2024 Promotion",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "Marketing Team - Q2 Campaign",
+    "tags": "sale, promotion, discount, summer, email-campaign"
+  },
+  {
+    "title": "Product Launch LinkedIn Post",
+    "content": "🚀 Introducing CloudSync Pro - the future of data management. Seamlessly sync your data across all platforms with enterprise-grade security. Join 500+ companies already transforming their workflows. Book a demo today!",
+    "content_type": "social",
+    "campaign_name": "CloudSync Pro Launch",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Social Media Team",
+    "tags": "product-launch, B2B, linkedin, cloud, technology"
+  },
+  {
+    "title": "Google Ads - Project Management Tool",
+    "content": "Boost team productivity by 40%. Try our award-winning project management software free for 30 days. No credit card required. Trusted by 10,000+ teams worldwide.",
+    "content_type": "ad",
+    "campaign_name": "PM Tool Acquisition",
+    "audience": "SMB",
+    "compliance_status": "approved",
+    "source": "Paid Ads Team",
+    "tags": "project-management, productivity, SaaS, google-ads"
+  },
+  {
+    "title": "Blog: 10 Tips for Better Email Marketing",
+    "content": "Email marketing remains one of the most effective digital marketing channels with an average ROI of $42 for every $1 spent. Here are 10 proven strategies to improve your email campaigns: 1. Segment your audience 2. Personalize subject lines 3. Optimize for mobile 4. A/B test everything 5. Use clear CTAs 6. Time your sends right 7. Clean your list regularly 8. Provide value first 9. Tell stories 10. Analyze and iterate.",
+    "content_type": "blog",
+    "campaign_name": "Content Marketing Q3",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Content Team Blog",
+    "tags": "email-marketing, tips, best-practices, ROI, content-marketing"
+  },
+  {
+    "title": "Black Friday Flash Sale Notification",
+    "content": "⚡ FLASH SALE ALERT! Black Friday deals are LIVE NOW. 70% off everything for the next 4 hours only! Don't wait - these prices won't last. Shop now before items sell out!",
+    "content_type": "email",
+    "campaign_name": "Black Friday 2024",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "E-commerce Team",
+    "tags": "black-friday, flash-sale, urgency, discount, seasonal"
+  },
+  {
+    "title": "Enterprise Security Solution Ad",
+    "content": "Protect your business with military-grade encryption. Our enterprise security platform stops 99.9% of threats before they reach your network. Trusted by Fortune 500 companies. Schedule a security audit today.",
+    "content_type": "ad",
+    "campaign_name": "Cybersecurity Q4",
+    "audience": "Enterprise",
+    "compliance_status": "approved",
+    "source": "Enterprise Marketing",
+    "tags": "cybersecurity, enterprise, B2B, security, compliance"
+  },
+  {
+    "title": "Customer Success Story - Tech Startup",
+    "content": "How TechStart Inc. increased conversion rates by 250% using our platform. Read the full case study to discover their journey from 100 to 10,000 customers in just 12 months. Download the free case study now.",
+    "content_type": "blog",
+    "campaign_name": "Case Studies Series",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Customer Success Team",
+    "tags": "case-study, success-story, conversion, growth, testimonial"
+  },
+  {
+    "title": "Instagram Fitness Challenge Post",
+    "content": "💪 30-Day Fitness Challenge starts Monday! Join 5,000+ people transforming their health. Daily workouts, meal plans, and community support included. Sign up free and get our exclusive workout guide. Link in bio! #FitnessGoals #HealthyLiving",
+    "content_type": "social",
+    "campaign_name": "Fitness Challenge 2024",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "Social Media Team",
+    "tags": "fitness, challenge, instagram, community, health"
+  },
+  {
+    "title": "Webinar Invitation - AI in Marketing",
+    "content": "Join our exclusive webinar: 'AI-Powered Marketing Strategies for 2025'. Learn from industry experts how to leverage AI to increase ROI by 300%. Date: Next Thursday, 2 PM EST. Reserve your spot now - limited seats available!",
+    "content_type": "email",
+    "campaign_name": "Thought Leadership Q4",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Events Team",
+    "tags": "webinar, AI, marketing, education, event"
+  },
+  {
+    "title": "Retargeting Ad - Abandoned Cart",
+    "content": "You left something behind! Your items are waiting. Complete your purchase now and get 15% off with code COMEBACK15. Plus free express shipping. Offer expires in 24 hours!",
+    "content_type": "ad",
+    "campaign_name": "Cart Recovery Campaign",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "Performance Marketing",
+    "tags": "retargeting, abandoned-cart, discount, conversion, urgency"
+  },
+  {
+    "title": "LinkedIn B2B Software Promotion",
+    "content": "Streamline your operations with our all-in-one business platform. CRM, Analytics, Automation - everything in one place. Join 2,000+ companies saving 20 hours per week. Start your free trial today.",
+    "content_type": "social",
+    "campaign_name": "Software Suite Launch",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Demand Generation",
+    "tags": "B2B, software, CRM, productivity, linkedin"
+  },
+  {
+    "title": "Holiday Gift Guide Email",
+    "content": "🎁 The Ultimate Holiday Gift Guide is here! Find the perfect gift for everyone on your list. Shop by category: For Him | For Her | For Kids | For Home. Special gift wrapping available. Order by Dec 20th for guaranteed delivery!",
+    "content_type": "email",
+    "campaign_name": "Holiday Season 2024",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "Seasonal Marketing",
+    "tags": "holiday, gift-guide, christmas, shopping, seasonal"
+  },
+  {
+    "title": "Blog: Data Privacy Best Practices",
+    "content": "In today's digital landscape, data privacy is paramount. This comprehensive guide covers GDPR compliance, data encryption, user consent management, and secure data storage. Learn how to protect customer data while building trust and maintaining compliance with global regulations.",
+    "content_type": "blog",
+    "campaign_name": "Compliance Content Series",
+    "audience": "Enterprise",
+    "compliance_status": "approved",
+    "source": "Compliance Team Blog",
+    "tags": "data-privacy, GDPR, compliance, security, best-practices"
+  },
+  {
+    "title": "Facebook Ad - Local Restaurant",
+    "content": "Craving authentic Italian? 🍕 Visit Mama Rosa's tonight! Now offering 20% off dine-in with this ad. Fresh pasta made daily. Open until 11 PM. Book your table now!",
+    "content_type": "ad",
+    "campaign_name": "Local Business Q4",
+    "audience": "B2C",
+    "compliance_status": "approved",
+    "source": "Local Marketing",
+    "tags": "restaurant, local, discount, facebook-ads, food"
+  },
+  {
+    "title": "Newsletter - Industry Insights",
+    "content": "This month's marketing insights: 1. Video content engagement up 85% YoY 2. Mobile commerce now 60% of all online sales 3. AI chatbots reduce support costs by 40% 4. Email personalization increases CTR by 300%. Read the full report with actionable takeaways.",
+    "content_type": "email",
+    "campaign_name": "Monthly Newsletter",
+    "audience": "B2B",
+    "compliance_status": "approved",
+    "source": "Research Team",
+    "tags": "newsletter, insights, trends, research, industry"
+  }
+]
